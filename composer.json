@@ -18,9 +18,9 @@
   "require": {
     "php": ">=7.1",
     "laravel/framework": "5.5.*",
-    "eveseat/eveapi": "~3",
-    "eveseat/services": "~3",
-    "eveseat/web": "~3",
+    "spectrefleet/eveapi": "~3",
+    "spectrefleet/services": "~3",
+    "spectrefleet/web": "~3",
     "darkaonline/l5-swagger": "5.5.*",
     "zircote/swagger-php": "2.*"
   },
